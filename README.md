@@ -1,2 +1,2 @@
 # jenkins_docker
-testing out jenkins docker
+Testing out jenkins docker alpine image and installing various plugins. 
